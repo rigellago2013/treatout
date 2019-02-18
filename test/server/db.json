@@ -1,0 +1,21 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "gmap_id": "8d1f2be7e79298bf17e9bd2c2fe508dd80cb64d7",
+      "place_id": "ChIJG6LUhwjRrjMRXiN4S3wBxVw",
+      "name": "21 Restaurant",
+      "address":"asdasdas",
+      "rating": 4.4,
+      "location": {
+        "lat": 10.682845,
+        "lng": 122.955698
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=CmRaAAAAK_HXq0I-iRJytnx6oQ8Xtp5uFVIqeBEaTu1afZC7B3jx8yLK-WiALWk0xeI7crXRwGhtqSqsKko5VKavWajgYno3bISoD5RNZRqfImBGyRGOnuH31X79XQhw1K_s2oksEhDmHKzanD2Ep_Idcz7lZFdYGhSFohE5z7maJhOAW6QxqSU45Lj6Pg&key=AIzaSyDWJ95wDORvWwB6B8kNzSNDfVSOeQc8W7k"
+      ],
+      "min_budget": 10000.00,
+      "max_budget": 30000.00    
+    }
+  ]
+}

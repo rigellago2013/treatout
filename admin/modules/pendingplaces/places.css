@@ -1,0 +1,30 @@
+.card {
+	cursor: pointer;
+}
+/* .cardContent {
+    margin: 20px;
+} */
+
+
+/*  GRID OF FIVE  */
+.span_5_of_5 {
+	width: 100%;
+}
+.span_4_of_5 {
+	width: 79.8%;
+}
+.span_3_of_5 {
+	width: 59.6%;
+}
+.span_2_of_5 {
+	width: 39.4%;
+}
+.span_1_of_5 {
+	width: 19.2%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_5, .span_2_of_5, .span_3_of_5, .span_4_of_5, .span_5_of_5 { width: 100%; }
+}
